@@ -73,7 +73,7 @@ Implementation: skopt.Optimizer
 
 ### Search bounds:
 
-- Flowrate₁: 1.0–10.0 mL·min⁻¹
+- Flowrate: 1.0–10.0 mL·min⁻¹
 
 - Temperature: 25–50 °C (rc-1.py) or 50–150 °C (rc-4.py)
 
