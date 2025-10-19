@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 | Device                      | Port  | Baud Rate | Function               |
 | --------------------------- | ----- | --------- | ---------------------- |
-| HPLC Pump, syringe pump                   | COM30 | 9600      | Flowrate control       |
+| HPLC Pump                   | COM30 | 9600      | Flowrate control       |
 | Temperature Controller      | COM19 | 9600      | Heating and monitoring |
 | Arduino Pressure Controller | COM52 | 9600      | Pressure regulation    |
 | 3D Printer Collector        | COM6  | 115200    | Fraction collector     |
